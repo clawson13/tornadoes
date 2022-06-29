@@ -1,0 +1,16 @@
+div#map {
+ height: 600px;
+ width: 800px;
+ margin-left: auto;
+ margin-bottom: auto;
+ margin-top: auto;
+ margin-right: auto;
+ left: 20px;
+ border-color: #000000;
+ z-index: 0;
+}
+
+body {
+ padding: 0px;
+ background-color: #fff;
+}

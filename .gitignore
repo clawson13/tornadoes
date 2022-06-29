@@ -1,3 +1,10 @@
+# Misc
+.DS_Store
+desktop.ini
+
+# Config files for any keys
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
