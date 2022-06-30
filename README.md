@@ -1,6 +1,6 @@
 # Tornadoes!
 
-## Contributors:
+## Contributors
 
 - Taylor Bohl
 - Harish Korrapati
@@ -8,12 +8,12 @@
 - Rhiana Schafer
 - Ishanjit Sidhu
 
-## Description:
+## Description
 Extracted NEXRAD Level-3 Radar data identifying Tornado Vortex Signatures from the last two months (source NOAA: www.ncdc.noaa.gov.) Cleaned and organized in Pandas, tornado cell activity data is subsequently launched to MongoDB for storage. Python Flask API powers web application for dynamic interaction with tornado data (see file app.py). Visualizations created using Leaflet and Plotly.
 
 ![methods](imgs/methods.png)
 
-## Dataset:
+## Dataset
 
 Data was retrieved using the following API:
 
@@ -42,23 +42,23 @@ Some notes on the data:
 &nbsp;&nbsp;&nbsp;&nbsp;Month  
 
 
-## Visuals:
+## Visuals
 
-### Landing:
+### Landing
 ![homepage](imgs/homepage.png)
 
-### Storm Tracking:
-On the Cell Tracking page, view tornado activity by date; cycle through a day's tornado cell activity using the hour slider.
+### Storm Tracking
+On the Cell Tracking page, view tornado activity by date; cycle through a day's tornado cell activity using the hour slider:
 
 ![tracking](imgs/tracking.png)
 
-### Heat Map:
-Plotted data showing the density of recorded cell activity in particular areas.
+### Heat Map
+Plotted data showing the density of recorded cell activity in particular areas:
 
 ![heatmap](imgs/heatmap.png)
 
-### Intensity Plots:
-Relationship between Max Shear, MXDV and date charted.
+### Intensity Plots
+Relationship between Max Shear, MXDV and date charted:
 
 ![image](imgs/image.png)
 
