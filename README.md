@@ -63,3 +63,7 @@ Relationship between Max Shear, MXDV and date charted:
 ![image](imgs/image.png)
 
 ![image2](imgs/image2.png)
+
+## Contact
+E-mail: clawson131@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/corey-lawson-enos/
